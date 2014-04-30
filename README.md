@@ -1,0 +1,4 @@
+Ikesu
+==========
+
+Simple JS Store.
